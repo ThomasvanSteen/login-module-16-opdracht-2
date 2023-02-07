@@ -1,0 +1,7 @@
+een email login velt 
+een wachtwoord velt 
+login en sing up knop 
+wachtwoord vergeten knop 
+sign up/in with google or apple knoppen 
+minimal extras 
+logo 
